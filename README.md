@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @leaf-bob-fornal
-- 👀 I’m interested in Frontend code, CI/CD, building the best product I can for a client.
+- 👀 I’m interested in Frontend code, CI/CD, and building the best product I can for a client.
 - 🌱 I’m currently learning Azure, Cloudflare, Node.JS, and WP.
